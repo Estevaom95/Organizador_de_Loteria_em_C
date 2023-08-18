@@ -1,0 +1,5 @@
+C:\Users\esilva.csf\Downloads\Loteria.c\obj\Debug\net6.0\Loteria.c.csproj.AssemblyReference.cache
+C:\Users\esilva.csf\Downloads\Loteria.c\obj\Debug\net6.0\Loteria.c.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\esilva.csf\Downloads\Loteria.c\obj\Debug\net6.0\Loteria.c.AssemblyInfoInputs.cache
+C:\Users\esilva.csf\Downloads\Loteria.c\obj\Debug\net6.0\Loteria.c.AssemblyInfo.cs
+C:\Users\esilva.csf\Downloads\Loteria.c\obj\Debug\net6.0\Loteria.c.csproj.CoreCompileInputs.cache
